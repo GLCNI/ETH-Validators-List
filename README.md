@@ -2,8 +2,10 @@
 List of Addresses that Deposited the Ethereum Beacon Chain Contract 
 
 Contracts 
+
 Eth2 Deposit Contract
 0x00000000219ab540356cbb839cbe05303d7705fa
+
 RPL node Deposit contract Address
 0xDCD51fc5Cd918e0461B9B7Fb75967fDfD10DAe2f
 
