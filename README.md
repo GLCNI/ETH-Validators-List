@@ -30,8 +30,8 @@ All unique addresses that deposited a valid transaction to the ‘ETH2 deposit c
 **#Blacklist**
 
 Data From ETHsta.com (https://github.com/Zachary-Lingle)
-Known staking as a service/liquid staking addresses, Such as Lido, Stakewise. exchange addresses such as Kraken
-this includes Coinbase deposits which account for ~57,000 of the ‘Beacon Chain Depositors’ sheet 
+Known staking as a service/liquid staking addresses, Such as Lido, Stakewise. exchange addresses such as Kraken,
+this includes Coinbase deposits which account for ~57,000 of the ‘Beacon Chain Depositors’ sheet. 
 some addresses such as known QuadrigaCX wallets
 
 
