@@ -1,3 +1,8 @@
+# THIS IS DEPRECATED 
+## SEE THIS REPO INSTEAD (https://github.com/GLCNI/ETH-Solo-Validator-Addresses) 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 # ETH-Validators-List
 List of Addresses that Deposited the Ethereum Beacon Chain Contract 
 
